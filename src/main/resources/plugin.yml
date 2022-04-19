@@ -1,0 +1,5 @@
+main: me.tech.example.ExamplePlugin
+name: ExamplePlugin
+version: 1.0.0
+api-version: 1.18
+authors: [Tech]
